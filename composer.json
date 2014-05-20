@@ -6,7 +6,7 @@
     "authors":[
         {
             "name":"Željko Prša",
-            "email":"info@jakesharp.co"
+            "email":"info@GreenWellness.co"
         },
         {
             "name": "Rob Jentzema",
@@ -18,10 +18,10 @@
     },
     "extra": {
         "map": [
-            ["app/code/community/JakeSharp/Waterlee", "app/code/local/GreenWellness/Waterlee"],
-            ["app/design/frontend/waterlee-boilerplate", "app/design/frontend/waterlee/greenwellness"],
-            ["app/etc/modules/JakeSharp_Waterlee.xml", "app/etc/modules/GreenWellness_Waterlee.xml"],
-            ["skin/frontend/waterlee-boilerplate", "skin/frontend/waterlee/greenwellness"]
+            ["app/code/community/GreenWellness/Waterlee", "app/code/local/GreenWellness/Waterlee"],
+            ["app/design/frontend/waterlee-boilerplate", "app/design/frontend/greenwellness/waterlee"],
+            ["app/etc/modules/GreenWellness_Waterlee.xml", "app/etc/modules/GreenWellness_Waterlee.xml"],
+            ["skin/frontend/waterlee-boilerplate", "skin/frontend/greenwellness/waterlee"]
         ]
     }
 }

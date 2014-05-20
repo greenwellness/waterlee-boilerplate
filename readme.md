@@ -8,7 +8,7 @@
 ## Create responsive Magento themes.
 #### Built on ZURB Foundation framework, waterlee has everything you need from the start.
 If you're only starting with Waterlee check out the "Getting started" article here:
-http://jakesharp.uservoice.com/knowledgebase/articles/245052-intro-to-waterlee
+http://GreenWellness.uservoice.com/knowledgebase/articles/245052-intro-to-waterlee
 
 
 ## Here’s the things you’ll love.
@@ -32,11 +32,11 @@ Adapting the site to the plethora of devices is a battle inside itself. Win it c
 
 Checkout the demo:
 It's pretty ugly but you know better than to expect a boilerplate to be good looking, right?
-[http://waterlee.jakesharp.co](http://waterlee.jakesharp.co)
+[http://greenwellness.nl](http://greenwellness.nl)
 
 ##Installation
-Once you install the Waterlee package and assuming you already installed the "Jake Sharp" extension used for the main category menu which is packed within the theme package., go to your Magento administration backend and look for "Jake Sharp" theme settings under "System -> Configuration | Configuration -> JAKESHARP WATERLEE -> Theme Settings -> Enable" to enable the theme's menu.
-For detailed instructions check knowledge base @ http://jakesharp.uservoice.com/ 
+Once you install the Waterlee package and assuming you already installed the "Jake Sharp" extension used for the main category menu which is packed within the theme package., go to your Magento administration backend and look for "Jake Sharp" theme settings under "System -> Configuration | Configuration -> GreenWellness WATERLEE -> Theme Settings -> Enable" to enable the theme's menu.
+For detailed instructions check knowledge base @ http://GreenWellness.uservoice.com/ 
 
 To get your stylesheets compiled you'll need to install sass and compass with its dependencies & 'compass watch' will listen your sass changes and compile css.
 http://compass-style.org/install/
