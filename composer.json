@@ -18,7 +18,7 @@
     },
     "extra": {
         "map": [
-            ["app/code/community/GreenWellness/Waterlee", "app/code/local/GreenWellness/Waterlee"],
+            ["app/code/local/GreenWellness/Waterlee", "app/code/local/GreenWellness/Waterlee"],
             ["app/design/frontend/waterlee-boilerplate", "app/design/frontend/greenwellness/waterlee"],
             ["app/etc/modules/GreenWellness_Waterlee.xml", "app/etc/modules/GreenWellness_Waterlee.xml"],
             ["skin/frontend/waterlee-boilerplate", "skin/frontend/greenwellness/waterlee"]
