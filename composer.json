@@ -1,12 +1,16 @@
 {
-    "name": "zeljkoprsa/waterlee-boilerplate",
+    "name": "greenwellness/waterlee",
     "type": "magento-module",
     "license":"GPL v2.0",
-    "description":"Magento HTML5 Responsive Theme Boilerplate",
+    "description":"Magento HTML5 Responsive Theme Boilerplate Forked",
     "authors":[
         {
             "name":"Željko Prša",
             "email":"info@jakesharp.co"
+        },
+        {
+            "name": "Rob Jentzema",
+            "email": "rob@wellnessbon.nl"
         }
     ],
     "require": {
@@ -14,10 +18,10 @@
     },
     "extra": {
         "map": [
-            ["app/code/community/JakeSharp/Waterlee", "app/code/community/JakeSharp/Waterlee"],
-            ["app/design/frontend/waterlee-boilerplate", "app/design/frontend/waterlee-boilerplate"],
-            ["app/etc/modules/JakeSharp_Waterlee.xml", "app/etc/modules/JakeSharp_Waterlee.xml"],
-            ["skin/frontend/waterlee-boilerplate", "skin/frontend/waterlee-boilerplate"]
+            ["app/code/community/JakeSharp/Waterlee", "app/code/local/GreenWellness/Waterlee"],
+            ["app/design/frontend/waterlee-boilerplate", "app/design/frontend/waterlee/greenwellness"],
+            ["app/etc/modules/JakeSharp_Waterlee.xml", "app/etc/modules/GreenWellness_Waterlee.xml"],
+            ["skin/frontend/waterlee-boilerplate", "skin/frontend/waterlee/greenwellness"]
         ]
     }
 }
